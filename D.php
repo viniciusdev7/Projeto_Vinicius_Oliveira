@@ -25,5 +25,9 @@ class D {
         echo "Metodo - MD2";
     }
 
+    public function MD4() {
+        echo "Método - MD4 (alteração remota)";
+    }
+
 }
 
