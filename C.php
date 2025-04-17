@@ -24,5 +24,9 @@ class C {
     public function MC2(){
         echo "Metodo - MC2";
     }
+
+    public function MC3(){
+        echo "Metodo - MC3";
+    }
 }
 
