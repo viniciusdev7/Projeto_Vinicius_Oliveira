@@ -28,6 +28,10 @@ class D {
     public function MD3(){
         echo "Metodo - MD3";
     }
+    
+    public function MD4() {
+        echo "Método - MD4 (alteração remota)";
+    }
 
 }
 
