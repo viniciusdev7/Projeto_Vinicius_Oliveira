@@ -31,5 +31,9 @@ class A {
     public function MA3(){
         echo "Alteração a classe A partir do clone";
     }   
+
+    public function getSoma(int $a, int $b): int {
+        return $a + $b;
+    }
 }
 
