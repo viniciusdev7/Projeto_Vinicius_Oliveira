@@ -25,5 +25,9 @@ class D {
         echo "Metodo - MD2";
     }
 
+    public function MD3(){
+        echo "Metodo - MD3";
+    }
+
 }
 
