@@ -24,5 +24,9 @@ class B {
     public function MB2(){
         echo "Metodo - MB2";
     }
+
+    public function MB3(){
+        echo "Metodo - MB3";
+    }
 }
 
