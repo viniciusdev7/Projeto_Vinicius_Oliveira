@@ -35,5 +35,8 @@ class A {
     public function getSoma(int $a, int $b): int {
         return $a + $b;
     }
+    public function getSoma2(int $a, int $b): int {
+        return $a + $b;
+    }
 }
 
